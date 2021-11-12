@@ -10,7 +10,7 @@ print(plist)
 for i in range(4):
     """removes the last 4 characters """
     plist.pop()
-"""removes d """
+"""removes D """
 plist.pop(0)
 """removes the "'" """
 plist.remove("'")
