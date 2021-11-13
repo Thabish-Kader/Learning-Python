@@ -41,3 +41,18 @@ for letter in word:
 """the items() method is used to return the dictionary items with key and value"""
 for k, v in sorted(found.items()):
     print(k, 'was found', v, ' times')
+
+# Only allowing the count of vowels found
+
+vowels = ['a', 'e', 'i', 'o', 'u']
+word = input('Provide a word to search for vowels:')
+found = {}
+
+for letter in word:
+    if letter in vowels:
+        """use setdefault to help avoid KeyError exception"""
+        found.setdefault(letter, 0)
+        found[letter] += 1
+
+for k, v in sorted(found.items()):
+    print(k, 'was found', v, ' times')
