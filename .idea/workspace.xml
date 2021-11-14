@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d764b46-e6c0-41d4-9327-39cfbf9baee7" name="Changes" comment="learning dictionary">
-      <change afterPath="$PROJECT_DIR$/Dictionary/Dictionary_Level2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functiom/function_Level1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sets/Sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuple/tuple.py" afterDir="false" />
+    <list default="true" id="1d764b46-e6c0-41d4-9327-39cfbf9baee7" name="Changes" comment="learning functions">
+      <change afterPath="$PROJECT_DIR$/Deeper_Into_BIFs/Annotations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deeper_Into_BIFs/Deeper_Into_BIfs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary/DictionaryBasics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary/DictionaryBasics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListsFunction/forLoopsInLists.py" beforeDir="false" afterPath="$PROJECT_DIR$/ListsFunction/forLoopsInLists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functiom/function_Level1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functiom/function_Level1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +39,8 @@
       <recent name="$PROJECT_DIR$/Dictionary/Sets" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.function_Level1">
-    <configuration name="DictionaryBasics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Annotations">
+    <configuration name="Annotations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearningPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +48,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Deeper_Into_BIFs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionary/DictionaryBasics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deeper_Into_BIFs/Annotations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Deeper_Into_BIfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearningPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Deeper_Into_BIFs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deeper_Into_BIFs/Deeper_Into_BIfs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,27 +95,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionary/Dictionary_Level2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Sets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearningPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sets" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sets/Sets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Annotations" />
         <item itemvalue="Python.function_Level1" />
+        <item itemvalue="Python.Deeper_Into_BIfs" />
         <item itemvalue="Python.Dictionary_Level2" />
         <item itemvalue="Python.tuple" />
-        <item itemvalue="Python.Sets" />
-        <item itemvalue="Python.DictionaryBasics" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636095876514</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="learning functions">
+      <created>1636790740892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636790740892</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +218,8 @@
     <MESSAGE value="Useing list functions" />
     <MESSAGE value="dictionary learnt" />
     <MESSAGE value="learning dictionary" />
-    <option name="LAST_COMMIT_MESSAGE" value="learning dictionary" />
+    <MESSAGE value="learning functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="learning functions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
