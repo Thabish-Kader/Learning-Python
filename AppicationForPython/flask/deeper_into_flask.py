@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, escape
 from Deeper_Into_BIFs.Annotations import searchForLetters
 from flask import render_template, request
 from StoreingData.storeingData import log_request
@@ -28,7 +28,8 @@ def entry_page() -> 'html':
 def view_the_log() -> str:
     with open('vsearch.log') as readlog:
         contents = readlog.read()
-    return contents
+    return escape(''.join(contents))
+
 
 if __name__ == '__main__':
     app.run(debug=True)

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d764b46-e6c0-41d4-9327-39cfbf9baee7" name="Changes" comment="building a simple web app">
-      <change afterPath="$PROJECT_DIR$/AppicationForPython/vsearch.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StoreingData/fileStream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StoreingData/storeingData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StoreingData/todo.txt" afterDir="false" />
+    <list default="true" id="1d764b46-e6c0-41d4-9327-39cfbf9baee7" name="Changes" comment="learnt how to store data in file">
+      <change afterPath="$PROJECT_DIR$/AppicationForPython/flask/vsearch.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/deeper_into_flask.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppicationForPython/deeper_into_flask.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/amending_a_second url.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppicationForPython/flask/amending_a_second url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/deeper_into_flask.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppicationForPython/flask/deeper_into_flask.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/vsearch.log" beforeDir="false" afterPath="$PROJECT_DIR$/AppicationForPython/vsearch.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/webApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppicationForPython/flask/webApp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StoreingData/fileStream.py" beforeDir="false" afterPath="$PROJECT_DIR$/StoreingData/fileStream.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StoreingData/storeingData.py" beforeDir="false" afterPath="$PROJECT_DIR$/StoreingData/storeingData.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +44,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AppicationForPython/flask/templates" />
+      <recent name="$PROJECT_DIR$/AppicationForPython/flask" />
+      <recent name="$PROJECT_DIR$/StoreingData" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Dictionary/Sets" />
     </key>
@@ -55,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AppicationForPython" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AppicationForPython/flask" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppicationForPython/amending_a_second url.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppicationForPython/flask/amending_a_second url.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +85,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppicationForPython/deeper_into_flask.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppicationForPython/flask/deeper_into_flask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="escapeFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearningPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StoreingData/LearningEscape_fromFlask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppicationForPython/flask/escapeFunction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,34 +178,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="trial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearningPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AppicationForPython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppicationForPython/trial.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.deeper_into_flask" />
+        <item itemvalue="Python.amending_a_second url" />
+        <item itemvalue="Python.escapeFunction" />
         <item itemvalue="Python.storeingdata_of_deeper_into_flask" />
         <item itemvalue="Python.fileStream" />
-        <item itemvalue="Python.trial" />
-        <item itemvalue="Python.amending_a_second url" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636978925696</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="learnt how to store data in file">
+      <created>1637154518754</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637154518754</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,7 +255,8 @@
     <MESSAGE value="learning functions" />
     <MESSAGE value="learning annotaions" />
     <MESSAGE value="building a simple web app" />
-    <option name="LAST_COMMIT_MESSAGE" value="building a simple web app" />
+    <MESSAGE value="learnt how to store data in file" />
+    <option name="LAST_COMMIT_MESSAGE" value="learnt how to store data in file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

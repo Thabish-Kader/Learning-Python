@@ -6,10 +6,10 @@ print('Buy blackberries', file=todos)
 todos.close()
 
 # Reading a file
-tasks = open('todo.txt') # default mode of open is to read
+tasks = open('todo.txt')  # default mode of open is to read
 
 for fruits in tasks:
-    print(fruits, end = '') #end is used to suppress the new line
+    print(fruits, end='')  # end is used to suppress the new line
 
 tasks.close()
 
