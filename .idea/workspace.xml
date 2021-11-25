@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d764b46-e6c0-41d4-9327-39cfbf9baee7" name="Changes" comment="deeper into prcessing and storeing data">
-      <change afterPath="$PROJECT_DIR$/AppicationForPython/LearningDatabase/connectionCharacyeristics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AppicationForPython/LearningDatabase/trialDb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AppicationForPython/flask/flaskWithDB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AppicationForPython/flask/templates/hf.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AppicationForPython/flask/templates/viewlog.html" afterDir="false" />
+    <list default="true" id="1d764b46-e6c0-41d4-9327-39cfbf9baee7" name="Changes" comment="learning database">
+      <change afterPath="$PROJECT_DIR$/AppicationForPython/Class_and_Objects/Class_and_Objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppicationForPython/flask/databaseContextManager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/deeper_into_flask.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppicationForPython/flask/deeper_into_flask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/vsearch.log" beforeDir="false" afterPath="$PROJECT_DIR$/AppicationForPython/vsearch.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/flaskWithDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppicationForPython/flask/flaskWithDB.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,15 +49,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AppicationForPython/Class_and_Objects" />
       <recent name="$PROJECT_DIR$/AppicationForPython/flask/templates" />
       <recent name="$PROJECT_DIR$/AppicationForPython/flask" />
       <recent name="$PROJECT_DIR$/StoreingData" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Dictionary/Sets" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.connectionCharacyeristics">
-    <configuration name="amending_a_second url" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.flaskWithDB">
+    <configuration name="Class_and_Objects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearningPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AppicationForPython/flask" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AppicationForPython/Class_and_Objects" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppicationForPython/flask/amending_a_second url.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppicationForPython/Class_and_Objects/Class_and_Objects.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="escapeFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="flaskWithDB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearningPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StoreingData/LearningEscape_fromFlask" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AppicationForPython/flask" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppicationForPython/flask/escapeFunction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppicationForPython/flask/flaskWithDB.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,19 +185,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.amending_a_second url" />
       <item itemvalue="Python.connectionCharacyeristics" />
       <item itemvalue="Python.deeper_into_flask" />
-      <item itemvalue="Python.escapeFunction" />
       <item itemvalue="Python.trialDb" />
+      <item itemvalue="Python.Class_and_Objects" />
+      <item itemvalue="Python.flaskWithDB" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.flaskWithDB" />
+        <item itemvalue="Python.Class_and_Objects" />
         <item itemvalue="Python.connectionCharacyeristics" />
         <item itemvalue="Python.trialDb" />
         <item itemvalue="Python.deeper_into_flask" />
-        <item itemvalue="Python.amending_a_second url" />
-        <item itemvalue="Python.escapeFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637237368606</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="learning database">
+      <created>1637410422958</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637410422959</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,7 +284,8 @@
     <MESSAGE value="building a simple web app" />
     <MESSAGE value="learnt how to store data in file" />
     <MESSAGE value="deeper into prcessing and storeing data" />
-    <option name="LAST_COMMIT_MESSAGE" value="deeper into prcessing and storeing data" />
+    <MESSAGE value="learning database" />
+    <option name="LAST_COMMIT_MESSAGE" value="learning database" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
