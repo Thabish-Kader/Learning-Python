@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d764b46-e6c0-41d4-9327-39cfbf9baee7" name="Changes" comment="learning class and objects &#10;learning context manager">
-      <change afterPath="$PROJECT_DIR$/AppicationForPython/flask/DBcm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AppicationForPython/flask/creatingDecorator(checker.py).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AppicationForPython/flask/learningSession.py" afterDir="false" />
+    <list default="true" id="1d764b46-e6c0-41d4-9327-39cfbf9baee7" name="Changes" comment="learning to create decorator">
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/vserach4web(UpdatedWithDecorators).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/ImplementingDecorateorFunction(simple_webapp.py).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/creatingDecorator(checker.py).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/databaseContextManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppicationForPython/flask/databaseContextManager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/deeper_into_flask.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppicationForPython/flask/deeper_into_flask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/flaskWithDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppicationForPython/flask/flaskWithDB.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/vsearch.log" beforeDir="false" afterPath="$PROJECT_DIR$/AppicationForPython/vsearch.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/Class_and_Objects/Class_and_Objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class_and_Objects/Class_and_Objects.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/LearningDatabase/connectionCharacyeristics.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningDatabase/connectionCharacyeristics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/LearningDatabase/trialDb.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningDatabase/trialDb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/DBcm.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/DBcm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/amending_a_second url.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/amending_a_second url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/creatingDecorator(checker.py).py" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/try_except.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/databaseContextManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/databaseContextManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/deeper_into_flask.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/deeper_into_flask.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/flaskWithDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/flaskWithDB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/learningSession.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/learningSession.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/templates/hf.css" beforeDir="false" afterPath="$PROJECT_DIR$/flask/templates/hf.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/templates/viewlog.html" beforeDir="false" afterPath="$PROJECT_DIR$/flask/templates/viewlog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/vsearch.log" beforeDir="false" afterPath="$PROJECT_DIR$/flask/vsearch.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/webApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/webApp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/vsearch.log" beforeDir="false" afterPath="$PROJECT_DIR$/vsearch.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +39,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/AppicationForPython/flask/webApp.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AppicationForPython/flask/deeper_into_flask.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AppicationForPython/LearningDatabase/connectionCharacyeristics.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AppicationForPython/vsearch.log" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AppicationForPython/flask/templates/viewlog.html" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AppicationForPython/flask/templates/base.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/flask/webApp.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/flask/deeper_into_flask.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LearningDatabase/connectionCharacyeristics.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/vsearch.log" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/flask/templates/viewlog.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/flask/templates/base.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/StoreingData/storeingData.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="20Q0K4MjufnkaBt3Uk2oX5NRyHD" />
@@ -53,35 +64,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ExceptionHandling" />
       <recent name="$PROJECT_DIR$/AppicationForPython/flask" />
       <recent name="$PROJECT_DIR$/AppicationForPython/Class_and_Objects" />
       <recent name="$PROJECT_DIR$/AppicationForPython/flask/templates" />
-      <recent name="$PROJECT_DIR$/StoreingData" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.deeper_into_flask">
-    <configuration name="Class_and_Objects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearningPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AppicationForPython/Class_and_Objects" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppicationForPython/Class_and_Objects/Class_and_Objects.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.try_except">
     <configuration name="DictionaryBasics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearningPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,21 +177,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="try_except" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearningPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExceptionHandling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExceptionHandling/try_except.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Class_and_Objects" />
-      <item itemvalue="Python.DictionaryBasics" />
-      <item itemvalue="Python.Dictionary_Level2" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.deeper_into_flask" />
       <item itemvalue="Python.flaskWithDB" />
-      <item itemvalue="Python.main" />
+      <item itemvalue="Python.DictionaryBasics" />
+      <item itemvalue="Python.Dictionary_Level2" />
+      <item itemvalue="Python.try_except" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.try_except" />
         <item itemvalue="Python.deeper_into_flask" />
         <item itemvalue="Python.Dictionary_Level2" />
         <item itemvalue="Python.DictionaryBasics" />
         <item itemvalue="Python.flaskWithDB" />
-        <item itemvalue="Python.Class_and_Objects" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637850662573</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="learning to create decorator">
+      <created>1637997416364</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1637997416364</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,7 +315,8 @@
     <MESSAGE value="deeper into prcessing and storeing data" />
     <MESSAGE value="learning database" />
     <MESSAGE value="learning class and objects &#10;learning context manager" />
-    <option name="LAST_COMMIT_MESSAGE" value="learning class and objects &#10;learning context manager" />
+    <MESSAGE value="learning to create decorator" />
+    <option name="LAST_COMMIT_MESSAGE" value="learning to create decorator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
