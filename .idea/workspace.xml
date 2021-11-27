@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d764b46-e6c0-41d4-9327-39cfbf9baee7" name="Changes" comment="learning database">
-      <change afterPath="$PROJECT_DIR$/AppicationForPython/Class_and_Objects/Class_and_Objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AppicationForPython/flask/databaseContextManager.py" afterDir="false" />
+    <list default="true" id="1d764b46-e6c0-41d4-9327-39cfbf9baee7" name="Changes" comment="learning class and objects &#10;learning context manager">
+      <change afterPath="$PROJECT_DIR$/AppicationForPython/flask/DBcm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppicationForPython/flask/creatingDecorator(checker.py).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppicationForPython/flask/learningSession.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/databaseContextManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppicationForPython/flask/databaseContextManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/deeper_into_flask.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppicationForPython/flask/deeper_into_flask.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/flaskWithDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppicationForPython/flask/flaskWithDB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppicationForPython/vsearch.log" beforeDir="false" afterPath="$PROJECT_DIR$/AppicationForPython/vsearch.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +53,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AppicationForPython/flask" />
       <recent name="$PROJECT_DIR$/AppicationForPython/Class_and_Objects" />
       <recent name="$PROJECT_DIR$/AppicationForPython/flask/templates" />
-      <recent name="$PROJECT_DIR$/AppicationForPython/flask" />
       <recent name="$PROJECT_DIR$/StoreingData" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.flaskWithDB">
+  <component name="RunManager" selected="Python.deeper_into_flask">
     <configuration name="Class_and_Objects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearningPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="connectionCharacyeristics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DictionaryBasics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearningPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +90,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AppicationForPython/LearningDatabase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppicationForPython/LearningDatabase/connectionCharacyeristics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionary/DictionaryBasics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dictionary_Level2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearningPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionary/Dictionary_Level2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,42 +187,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="trialDb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearningPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../pythonProject/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AppicationForPython/LearningDatabase" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppicationForPython/LearningDatabase/trialDb.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.connectionCharacyeristics" />
-      <item itemvalue="Python.deeper_into_flask" />
-      <item itemvalue="Python.trialDb" />
       <item itemvalue="Python.Class_and_Objects" />
+      <item itemvalue="Python.DictionaryBasics" />
+      <item itemvalue="Python.Dictionary_Level2" />
+      <item itemvalue="Python.deeper_into_flask" />
       <item itemvalue="Python.flaskWithDB" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.deeper_into_flask" />
+        <item itemvalue="Python.Dictionary_Level2" />
+        <item itemvalue="Python.DictionaryBasics" />
         <item itemvalue="Python.flaskWithDB" />
         <item itemvalue="Python.Class_and_Objects" />
-        <item itemvalue="Python.connectionCharacyeristics" />
-        <item itemvalue="Python.trialDb" />
-        <item itemvalue="Python.deeper_into_flask" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637410422959</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="learning class and objects &#10;learning context manager">
+      <created>1637850662573</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1637850662573</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,7 +296,8 @@
     <MESSAGE value="learnt how to store data in file" />
     <MESSAGE value="deeper into prcessing and storeing data" />
     <MESSAGE value="learning database" />
-    <option name="LAST_COMMIT_MESSAGE" value="learning database" />
+    <MESSAGE value="learning class and objects &#10;learning context manager" />
+    <option name="LAST_COMMIT_MESSAGE" value="learning class and objects &#10;learning context manager" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
