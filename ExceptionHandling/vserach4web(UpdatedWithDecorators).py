@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, escape, session
 from Deeper_Into_BIFs.Annotations import searchForLetters
 
-from flask.learningSession import check_logged_in
+from learningSession2 import check_logged_in
 from ExceptionHandling.DBcmWithException import UseDatabase_v2, ConnectionError, CredentialError, SQLError
 
 app = Flask(__name__)

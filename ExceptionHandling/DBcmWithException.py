@@ -25,5 +25,5 @@ class UseDatabase_v2:
         self.conn.close()
         if exc_type is mysql.connector.errors.ProgrammingError:
             raise SQLError(exc_type)
-        elif
+        elif exc_type:
             raise exc_type(exc_value)

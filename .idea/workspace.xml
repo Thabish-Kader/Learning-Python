@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d764b46-e6c0-41d4-9327-39cfbf9baee7" name="Changes" comment="learning exception handling">
-      <change afterPath="$PROJECT_DIR$/ExceptionHandling/CreateingException.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandling/DBcmWithException.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threads/vsearchWithThreads.py" afterDir="false" />
+    <list default="true" id="1d764b46-e6c0-41d4-9327-39cfbf9baee7" name="Changes" comment="learning threads">
+      <change afterPath="$PROJECT_DIR$/AdvancedLoop(Comprehension)/advanced iteration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdvancedLoop(Comprehension)/advanced iteration2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdvancedLoop(Comprehension)/flightTime.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdvancedLoop(Comprehension)/moreComprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learningSession2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads/learningThread.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExceptionHandling/try_except.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/try_except.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionHandling/DBcmWithException.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/DBcmWithException.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExceptionHandling/vserach4web(UpdatedWithDecorators).py" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/vserach4web(UpdatedWithDecorators).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StoreingData/todo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StoreingData/todo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threads/vsearchWithThreads.py" beforeDir="false" afterPath="$PROJECT_DIR$/threads/vsearchWithThreads.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +52,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/ExceptionHandling" />
@@ -58,8 +67,8 @@
       <recent name="$PROJECT_DIR$/AppicationForPython/flask/templates" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.try_except">
-    <configuration name="CreateingException" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.advanced iteration2">
+    <configuration name="advanced iteration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearningPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExceptionHandling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdvancedLoop(Comprehension)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExceptionHandling/CreateingException.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdvancedLoop(Comprehension)/advanced iteration.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DictionaryBasics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="advanced iteration2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearningPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdvancedLoop(Comprehension)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionary/DictionaryBasics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdvancedLoop(Comprehension)/advanced iteration2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Dictionary_Level2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fileStream" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearningPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,32 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StoreingData" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionary/Dictionary_Level2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="deeper_into_flask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearningPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AppicationForPython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppicationForPython/flask/deeper_into_flask.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StoreingData/fileStream.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,21 +173,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="vsearchWithThreads" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearningPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/threads" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/threads/vsearchWithThreads.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.deeper_into_flask" />
-      <item itemvalue="Python.DictionaryBasics" />
-      <item itemvalue="Python.Dictionary_Level2" />
       <item itemvalue="Python.try_except" />
-      <item itemvalue="Python.CreateingException" />
+      <item itemvalue="Python.vsearchWithThreads" />
+      <item itemvalue="Python.advanced iteration" />
+      <item itemvalue="Python.fileStream" />
+      <item itemvalue="Python.advanced iteration2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.advanced iteration2" />
+        <item itemvalue="Python.advanced iteration" />
+        <item itemvalue="Python.fileStream" />
+        <item itemvalue="Python.vsearchWithThreads" />
         <item itemvalue="Python.try_except" />
-        <item itemvalue="Python.CreateingException" />
-        <item itemvalue="Python.deeper_into_flask" />
-        <item itemvalue="Python.Dictionary_Level2" />
-        <item itemvalue="Python.DictionaryBasics" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638017596488</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="learning threads">
+      <created>1638085072581</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1638085072581</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,7 +327,8 @@
     <MESSAGE value="learning class and objects &#10;learning context manager" />
     <MESSAGE value="learning to create decorator" />
     <MESSAGE value="learning exception handling" />
-    <option name="LAST_COMMIT_MESSAGE" value="learning exception handling" />
+    <MESSAGE value="learning threads" />
+    <option name="LAST_COMMIT_MESSAGE" value="learning threads" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
