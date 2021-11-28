@@ -1,26 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d764b46-e6c0-41d4-9327-39cfbf9baee7" name="Changes" comment="learning to create decorator">
-      <change afterPath="$PROJECT_DIR$/ExceptionHandling/vserach4web(UpdatedWithDecorators).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/ImplementingDecorateorFunction(simple_webapp.py).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/creatingDecorator(checker.py).py" afterDir="false" />
+    <list default="true" id="1d764b46-e6c0-41d4-9327-39cfbf9baee7" name="Changes" comment="learning exception handling">
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/CreateingException.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/DBcmWithException.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads/vsearchWithThreads.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/Class_and_Objects/Class_and_Objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class_and_Objects/Class_and_Objects.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/LearningDatabase/connectionCharacyeristics.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningDatabase/connectionCharacyeristics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/LearningDatabase/trialDb.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningDatabase/trialDb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/DBcm.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/DBcm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/amending_a_second url.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/amending_a_second url.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/creatingDecorator(checker.py).py" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/try_except.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/databaseContextManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/databaseContextManager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/deeper_into_flask.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/deeper_into_flask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/flaskWithDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/flaskWithDB.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/learningSession.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/learningSession.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/templates/hf.css" beforeDir="false" afterPath="$PROJECT_DIR$/flask/templates/hf.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/templates/viewlog.html" beforeDir="false" afterPath="$PROJECT_DIR$/flask/templates/viewlog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/vsearch.log" beforeDir="false" afterPath="$PROJECT_DIR$/flask/vsearch.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/flask/webApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/webApp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppicationForPython/vsearch.log" beforeDir="false" afterPath="$PROJECT_DIR$/vsearch.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionHandling/try_except.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/try_except.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionHandling/vserach4web(UpdatedWithDecorators).py" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/vserach4web(UpdatedWithDecorators).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +59,27 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.try_except">
+    <configuration name="CreateingException" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearningPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExceptionHandling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExceptionHandling/CreateingException.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="DictionaryBasics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearningPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,27 +143,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="flaskWithDB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearningPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AppicationForPython/flask" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppicationForPython/flask/flaskWithDB.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,18 +188,18 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.deeper_into_flask" />
-      <item itemvalue="Python.flaskWithDB" />
       <item itemvalue="Python.DictionaryBasics" />
       <item itemvalue="Python.Dictionary_Level2" />
       <item itemvalue="Python.try_except" />
+      <item itemvalue="Python.CreateingException" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.try_except" />
+        <item itemvalue="Python.CreateingException" />
         <item itemvalue="Python.deeper_into_flask" />
         <item itemvalue="Python.Dictionary_Level2" />
         <item itemvalue="Python.DictionaryBasics" />
-        <item itemvalue="Python.flaskWithDB" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637997416364</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="learning exception handling">
+      <created>1638017596488</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1638017596488</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,7 +310,8 @@
     <MESSAGE value="learning database" />
     <MESSAGE value="learning class and objects &#10;learning context manager" />
     <MESSAGE value="learning to create decorator" />
-    <option name="LAST_COMMIT_MESSAGE" value="learning to create decorator" />
+    <MESSAGE value="learning exception handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="learning exception handling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
